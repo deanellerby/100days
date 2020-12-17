@@ -12,4 +12,4 @@ Finally up and running and getting the hang of clones, commits, pulls and pushes
 
 Obligatory linky
 
-[Twitter](link)
+[Twitter](https://twitter.com/dean_ellerby/status/1339709880370913282)
