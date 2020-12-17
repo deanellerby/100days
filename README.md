@@ -14,16 +14,17 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [Dean's Cloud Journey
+## Dean's Cloud Journey
 
-[✍️ Introduce yourself]
 
-[✍️ Tell us why you started this challenge]
+Hello ! My name is Dean Ellerby. I'm a Technical Architect in the UK and have been focusing on device management and security for most of my working life. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+After hearing about the #100DaysOfCloud challenge, it took a little while for me to get my head around the idea - why step out of my comfort zone? I'm not finished with learning device management yet! 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+For me, taking on this challenge will allow me to look further afield, with a wider lens. I'll probably learn a lot of stuff that I don't already even know exists, and that'll probably help me be better at the stuff I'm already good at. 
+
+- [I'm on Twitter @dean_ellerby](https://twitter.com/dean_ellerby)
+- [I'm even LinkedIn](https://www.linkedin.com/in/deanellerby)
 
 ## Stepping out the door
 
